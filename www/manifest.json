@@ -1,0 +1,12 @@
+{
+  "name": "Islam Falsely Accused — الإسلام المفترى عليه",
+  "short_name": "الإسلام المفترى عليه",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book defending Islam against false accusations",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFF8E1",
+  "theme_color": "#F57F17",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
